@@ -1,0 +1,220 @@
+2026-03-12 14:49:18,094 - data_preprocessing - DEBUG - Data loaded properly
+2026-03-12 14:49:18,095 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-03-12 14:49:18,131 - data_preprocessing - DEBUG - Target column encoded
+2026-03-12 14:49:18,154 - data_preprocessing - DEBUG - Duplicates removed
+2026-03-12 14:49:18,163 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - 'C:\\Users\\robertis/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\robertis\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-03-12 14:49:18,164 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - 'C:\\Users\\robertis/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\robertis\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-03-12 14:49:41,040 - data_preprocessing - DEBUG - Data loaded properly
+2026-03-12 14:49:41,041 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-03-12 14:49:41,044 - data_preprocessing - DEBUG - Target column encoded
+2026-03-12 14:49:41,048 - data_preprocessing - DEBUG - Duplicates removed
+2026-03-12 14:49:41,052 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - 'C:\\Users\\robertis/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\robertis\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-03-12 14:49:41,053 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - 'C:\\Users\\robertis/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\robertis\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-03-12 14:50:02,337 - data_preprocessing - DEBUG - Data loaded properly
+2026-03-12 14:50:02,339 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-03-12 14:50:02,341 - data_preprocessing - DEBUG - Target column encoded
+2026-03-12 14:50:02,347 - data_preprocessing - DEBUG - Duplicates removed
+2026-03-12 14:50:02,355 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - 'C:\\Users\\robertis/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\robertis\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-03-12 14:50:02,356 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - 'C:\\Users\\robertis/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\robertis\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-03-12 14:53:48,350 - data_preprocessing - DEBUG - Data loaded properly
+2026-03-12 14:53:48,350 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-03-12 14:53:48,354 - data_preprocessing - DEBUG - Target column encoded
+2026-03-12 14:53:48,358 - data_preprocessing - DEBUG - Duplicates removed
+2026-03-12 14:53:48,363 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - 'C:\\Users\\robertis/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\robertis\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-03-12 14:53:48,364 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource 'punkt_tab' not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load 'tokenizers/punkt_tab/english/'
+
+  Searched in:
+    - 'C:\\Users\\robertis/nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\share\\nltk_data'
+    - 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.3312.0_x64__qbz5n2kfra8p0\\lib\\nltk_data'
+    - 'C:\\Users\\robertis\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2026-03-12 15:00:26,902 - data_preprocessing - DEBUG - Data loaded properly
+2026-03-12 15:00:26,902 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-03-12 15:00:26,903 - data_preprocessing - DEBUG - Target column encoded
+2026-03-12 15:00:26,906 - data_preprocessing - DEBUG - Duplicates removed
+2026-03-12 15:00:41,196 - data_preprocessing - DEBUG - Text column transformed
+2026-03-12 15:00:41,196 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-03-12 15:00:41,197 - data_preprocessing - DEBUG - Target column encoded
+2026-03-12 15:00:41,198 - data_preprocessing - DEBUG - Duplicates removed
+2026-03-12 15:00:45,040 - data_preprocessing - DEBUG - Text column transformed
+2026-03-12 15:00:45,082 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
+2026-03-12 19:50:45,954 - data_preprocessing - DEBUG - Data loaded properly
+2026-03-12 19:50:45,955 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-03-12 19:50:45,956 - data_preprocessing - DEBUG - Target column encoded
+2026-03-12 19:50:45,959 - data_preprocessing - DEBUG - Duplicates removed
+2026-03-12 19:51:00,792 - data_preprocessing - DEBUG - Text column transformed
+2026-03-12 19:51:00,793 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2026-03-12 19:51:00,794 - data_preprocessing - DEBUG - Target column encoded
+2026-03-12 19:51:00,795 - data_preprocessing - DEBUG - Duplicates removed
+2026-03-12 19:51:04,324 - data_preprocessing - DEBUG - Text column transformed
+2026-03-12 19:51:04,380 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
