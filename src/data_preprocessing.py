@@ -7,6 +7,9 @@ from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
 import string
 import nltk
+
+from load_params import load_params
+
 nltk.download('stopwords')
 nltk.download('punkt')
 
